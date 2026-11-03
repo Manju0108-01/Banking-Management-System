@@ -1,0 +1,12 @@
+
+# Java compiled files
+*.class
+
+# Banking data - keep account information private
+accounts.txt
+transactions.txt
+accounts_backup.txt
+transactions_backup.txt
+
+# VS Code settings
+.vscode/
